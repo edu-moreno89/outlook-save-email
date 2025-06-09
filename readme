@@ -1,0 +1,3 @@
+// run add-in sync
+
+npm run dev-server
