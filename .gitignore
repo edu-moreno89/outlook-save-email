@@ -1,2 +1,4 @@
 /node_modules
 /.vscode
+/add-in/node_modules
+/helper-app/node_modules
